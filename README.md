@@ -6,7 +6,7 @@
 
 ## Data Used
 
-**Data** - Daily Data for over 500 places in India
+**Data** - Daily Data of over 500 places in India
 
 **Data Location** - Download real-time data from the Government of India <a href="https://www.data.gov.in/resource/real-time-air-quality-index-various-locations" target="_blank">Here</a>.
 
@@ -24,11 +24,12 @@
 
 ![image](https://github.com/RaaviSupraja/AirQuality-Insights-PowerBI/blob/main/Healthy%20Areas.png)
 
+
 ![image](https://github.com/RaaviSupraja/AirQuality-Insights-PowerBI/blob/main/StateWise%20Analysis.png)
 
 ## Summary of Findings
 
- - There are a total of Unhealthy Areas and Hazardous Areas in the country.
+ - There are a total of 15 Unhealthy Areas and 7 Hazardous Areas in the country.
  - Ozone is the most dominant pollution type across India.
  - MadhyaPradesh is dominated by CO pollution.
 

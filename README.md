@@ -1,9 +1,5 @@
 # Air Quality Analysis - PowerBI
 
-<!--
-![image](https://user-images.githubusercontent.com/56026296/229609893-b7b1f261-5941-45af-8322-1ccb2535d36b.png)
--->
-
 ## Data Used
 
 **Data** - Daily Data of over 500 places in India
@@ -22,10 +18,10 @@
   - Which pollutants are more problematic in specific regions?
   - How many areas are Unhealthy and Hazardous?
 
-![image](https://github.com/RaaviSupraja/AirQuality-Insights-PowerBI/blob/main/Healthy%20Areas.png)
+![image](https://github.com/user-attachments/assets/9588ec09-3904-4112-8dd2-fb4172db820f)
 
 
-![image](https://github.com/RaaviSupraja/AirQuality-Insights-PowerBI/blob/main/StateWise%20Analysis.png)
+![image](https://github.com/user-attachments/assets/0239406f-2d77-4143-a093-45ec7f7be05f)
 
 ## Summary of Findings
 
@@ -42,5 +38,5 @@
 
 ## Limitations
 
-- Some records had * and NA pollutant values and these were modified to zero during cleaning.
+- Some records had * and NA pollutant values and these were modified to mean value during cleaning.
 - Only few major towns and cities were available with data. More studies at the Industrial areas could give accurate analysis.

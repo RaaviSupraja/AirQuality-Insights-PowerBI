@@ -1,12 +1,12 @@
 # Air Quality Analysis - PowerBI
 ## Table of Contents
 
-- [Data Used](#ProjectOverview)
-- [Questions](#Questions)
-- [Interactive Data Snapshots](#PowerBIDashboardSnapshots)
-- [Summary of Findings](#Summary)
-- [Suggestions](#Suggestions)
-- [Limitations](#Limitations)
+- [Data Used](#data-used)
+- [Questions](#questions)
+- [Interactive Data Snapshots](#interactive-data-snapshots)
+- [Summary of Findings](#summary-of-findings)
+- [Suggestions](#suggestions)
+- [Limitations](#limitations)
 
 ## Data Used
 
@@ -28,7 +28,7 @@
     
 ### Interactive Data Snapshots
 <img src="https://github.com/user-attachments/assets/9588ec09-3904-4112-8dd2-fb4172db820f" width="500" height="280">
-
+<br>
 <img src="https://github.com/user-attachments/assets/0239406f-2d77-4143-a093-45ec7f7be05f" width="400" height="280">
 
 ### Summary of Findings
